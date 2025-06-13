@@ -1,9 +1,18 @@
 #root {
-  max-width: 1280px;
+  width: 100%;
+  /* max-width: 1280px; */
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0rem;
   text-align: center;
 }
+
+
+
+/*
+
+The below code is from the sample code provided by vite upon project 
+setup for the react+vite logo site...
+
 
 .logo {
   height: 6em;
@@ -19,10 +28,12 @@
 }
 
 @keyframes logo-spin {
-  from {
+  from 
+  {
     transform: rotate(0deg);
   }
-  to {
+  to 
+  {
     transform: rotate(360deg);
   }
 }
@@ -40,4 +51,4 @@
 .read-the-docs 
 {
   color: #888;
-}
+} */
